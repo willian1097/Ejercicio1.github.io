@@ -1,0 +1,25 @@
+*{
+    background-color:lightgreen;
+}
+
+h1{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    color: green;
+}
+
+h2{
+    color: maroon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: royalblue;
+}
+
+.ultimo{
+    color: royalblue;
+}
